@@ -1,5 +1,5 @@
 {
-  "name": "toggle-switch-react-native",
+  "name": "toggle-switch-rn",
   "version": "2.0.0",
   "description": "Toggle Switch component for react native, it works on iOS and Android.",
   "main": "ToggleSwitch.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aminebenkeroum/toggle-switch-react-native.git"
+    "url": "git+https://github.com/hungptse/toggle-switch-rn.git"
   },
   "keywords": [
     "react-native",
@@ -24,7 +24,7 @@
   "author": "aminebenkeroum",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aminebenkeroum/toggle-switch-react-native/issues"
+    "url": "https://github.com/hungptse/toggle-switch-rn/issues"
   },
   "dependencies": {
     "prop-types": "^15.5.7"
@@ -32,5 +32,5 @@
   "peerDependencies": {
     "react-native": ">=0.47.1"
   },
-  "homepage": "https://github.com/aminebenkeroum/toggle-switch-react-native#readme"
+  "homepage": "https://github.com/hungptse/toggle-switch-rn#readme"
 }

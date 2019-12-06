@@ -1,12 +1,3 @@
-/**
- * toggle-switch-react-native
- * Toggle Switch component for react native, it works on iOS and Android
- * https://github.com/aminebenkeroum/toggle-switch-react-native
- * Email:amine.benkeroum@gmail.com
- * Blog: https://medium.com/@aminebenkeroum/
- * @benkeroumamine
- */
-
 import React from "react";
 import {
   StyleSheet,
@@ -141,9 +132,12 @@ export default class ToggleSwitch extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flexDirection: "row",
-    alignItems: "center"
+    justifyContent: 'space-between',
+    alignItems: "center",
+    paddingHorizontal: '2%',
+    paddingVertical: 5
   },
   labelStyle: {
-    marginHorizontal: 10
+    marginHorizontal: 0
   }
 });

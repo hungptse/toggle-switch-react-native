@@ -4122,9 +4122,9 @@ to-fast-properties@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-1.0.3.tgz#b83571fa4d8c25b82e231b06e3a3055de4ca1a47"
 
-toggle-switch-react-native@0.0.2:
+toggle-switch-rn@0.0.2:
   version "0.0.2"
-  resolved "https://registry.yarnpkg.com/toggle-switch-react-native/-/toggle-switch-react-native-0.0.2.tgz#b4f041e645e9582d186607df3ec64fd46eaff61e"
+  resolved "https://registry.yarnpkg.com/toggle-switch-rn/-/toggle-switch-rn-0.0.2.tgz#b4f041e645e9582d186607df3ec64fd46eaff61e"
   integrity sha1-tPBB5kXpWC0YZgffPsZP1G6v9h4=
   dependencies:
     prop-types "^15.5.7"

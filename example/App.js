@@ -7,7 +7,7 @@
 import React, { Component } from "react";
 import { Platform, StyleSheet, Text, View, Button } from "react-native";
 
-import ToggleSwitch from "toggle-switch-react-native";
+import ToggleSwitch from "toggle-switch-rn";
 
 export default class App extends Component<{}> {
   state = {
