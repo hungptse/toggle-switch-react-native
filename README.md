@@ -10,20 +10,20 @@ Toggle Switch Component for react native, it works on iOS and Android.
 
 ## Installation
 
-- 1.Run `npm i toggle-switch-rn --save`
-- 2.`import ToggleSwitch from 'toggle-switch-rn'`
+- 1.Run `npm i toggle-switch-react --save`
+- 2.`import ToggleSwitch from 'toggle-switch-react'`
 
 ## Demo
 
-- [Example](https://github.com/aminebenkeroum/toggle-switch-rn/tree/master/example)
+- [Example](https://github.com/aminebenkeroum/toggle-switch-react/tree/master/example)
 
 ![Screenshots](https://user-images.githubusercontent.com/6145715/62531210-4961a880-b842-11e9-918e-296cc0fd1666.gif)
 
 ## Getting started
 
-To Get Started, Import `toggle-switch-rn` to your js file.
+To Get Started, Import `toggle-switch-react` to your js file.
 
-`import ToggleSwitch from 'toggle-switch-rn'`
+`import ToggleSwitch from 'toggle-switch-react'`
 
 Inside your component's render method, or any other method returning views, use ToggleSwitch:
 

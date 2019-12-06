@@ -1,5 +1,5 @@
 {
-  "name": "toggle-switch-rn",
+  "name": "toggle-switch-react",
   "version": "1.0.0",
   "description": "Toggle Switch component for react native, it works on iOS and Android.",
   "main": "ToggleSwitch.js",
